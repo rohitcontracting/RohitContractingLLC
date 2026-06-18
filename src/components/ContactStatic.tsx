@@ -73,8 +73,8 @@ export default function ContactStatic() {
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1 text-[#1C1A17]">Email</h3>
-                  <a href="mailto:rohitcontracting@gmail.com" className="text-sm text-accent">
-                    rohitcontracting@gmail.com
+                  <a href="mailto:info@rohitcontracting.ae" className="text-sm text-accent">
+                    info@rohitcontracting.ae
                   </a>
                   <p className="text-xs mt-1 text-[#7A6250]">We reply within 2 hours</p>
                 </div>

@@ -296,10 +296,10 @@ export default function ContactSection() {
                     Email
                   </h3>
                   <a
-                    href="mailto:rohitcontracting@gmail.com"
+                    href="mailto:info@rohitcontracting.ae"
                     className="text-sm text-accent hover:text-accent-light transition-colors"
                   >
-                    rohitcontracting@gmail.com
+                    info@rohitcontracting.ae
                   </a>
                   <p
                     className="text-xs mt-1"
